@@ -65,3 +65,7 @@ Open [http://localhost:3000](http://localhost:3000)
 - Prisma with SQLite
 - Anthropic Claude AI
 - Vercel AI SDK
+
+## License
+
+This project was sourced from [Claude Academy](https://academy.anthropic.com) for educational and practice purposes.
